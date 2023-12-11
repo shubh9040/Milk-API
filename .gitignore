@@ -1,0 +1,6 @@
+node_modules
+var
+.xlsx
+# Node.js
+npm-debug.log*
+
